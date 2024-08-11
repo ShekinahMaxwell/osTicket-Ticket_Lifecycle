@@ -44,10 +44,10 @@ In a new browser enter url---> http://localhost/osTicket/ > Open a New Ticket > 
 <br />
 
 <p>
-<img 
+<img width="1341" alt="05" src="https://github.com/user-attachments/assets/b6b8d2ee-ec16-4eb8-ade7-9749f6854373">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now we can log in to osTicket as a Help Desk Professional (Agent) and start trying to resolve the tickets the "end user" created. >
 </p>
 <br />
 
