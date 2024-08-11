@@ -58,15 +58,24 @@ Now we can log in to osTicket as a Help Desk Professional (Agent) and start tryi
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1319" alt="06" src="https://github.com/user-attachments/assets/e8412676-8935-499f-b2bc-c69546ff6b82">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img width="1340" alt="07" src="https://github.com/user-attachments/assets/7cce27c4-e072-43b4-bb89-bf1c579fdc71">
+</p>
+<p>
+<img width="1266" alt="08" src="https://github.com/user-attachments/assets/80f3eeae-e75a-4de0-9764-3b3c653a7b3a">
+</p>
+<p>
+<img width="1230" alt="09" src="https://github.com/user-attachments/assets/6a55fa3f-4537-4aa9-bce4-0e8c08756299">
+</p>
+<p>
+We can assign priority based on the impact to business. Under Assigned to, we can assign this ticket to an Agent. We can also change the SLA to match the severity of the ticket.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+img
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
