@@ -39,7 +39,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="1271" alt="03" src="https://github.com/user-attachments/assets/f84fcdf1-85ec-4292-9499-8d41d5305776">
 </p>
 <p>
-In a new browser enter url---> http://localhost/osTicket/ > Open a New Ticket > Here we are pretending to be an end user for the practice of creating a ticket. Type in any name. > Select your Help Topic and ticket details > Create Ticket. Create a few more tickets to practice with later on.
+<img width="1392" alt="4 1" src="https://github.com/user-attachments/assets/2766b737-d75c-4670-8185-261d07ac0427">
+</p>
+<p>
+<img width="1235" alt="4 2" src="https://github.com/user-attachments/assets/ae9744b9-c760-48aa-b4b9-e7d5f935c301">
+</p>
+<p>
+In a new browser enter url---> http://localhost/osTicket/ > Open a New Ticket > Here we are pretending to be an end user for the practice of creating a ticket. Type in any name. > Select your Help Topic and ticket details > Create Ticket. Create a few more tickets to practice with later on. *Back on the Admin login screen, make sure Jane Doe have access to Support*
 </p>
 <br />
 
