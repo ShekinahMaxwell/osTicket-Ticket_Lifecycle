@@ -75,10 +75,13 @@ We can assign priority based on the impact to business. Under Assigned to, we ca
 <br />
 
 <p>
-img
+<img width="1259" alt="10" src="https://github.com/user-attachments/assets/2ca4c815-f60f-4f64-880a-6ea7c49fd674">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img width="1298" alt="11" src="https://github.com/user-attachments/assets/78294357-727a-46c6-909c-010638b694d3">
+</p>
+<p>
+Once in the ticket a reply can be made. Any action is then seend above in the history. Once the ticket issue has been resolved, add a comment to update the customer, change the status of the ticket at the bottom and post reply.
 </p>
 <br />
 
